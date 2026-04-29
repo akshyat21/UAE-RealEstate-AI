@@ -1,0 +1,1042 @@
+{
+  "Abu Dhabi Gate City (Officers City)": {
+    "dist_to_burj_khalifa_km": 118.22533170178338,
+    "dist_to_dubai_mall_km": 118.49889660452176
+  },
+  "Abu Shagara": {
+    "dist_to_burj_khalifa_km": 19.6764570806373,
+    "dist_to_dubai_mall_km": 19.424888240055143
+  },
+  "Address Fujairah Beach Resort": {
+    "dist_to_burj_khalifa_km": 113.57575136227955,
+    "dist_to_dubai_mall_km": 113.16892416592991
+  },
+  "Ajman Downtown": {
+    "dist_to_burj_khalifa_km": 32.769657433598894,
+    "dist_to_dubai_mall_km": 32.48003296568138
+  },
+  "Ajman Free Zone": {
+    "dist_to_burj_khalifa_km": 30.457341582454063,
+    "dist_to_dubai_mall_km": 30.2174668344895
+  },
+  "Ajman Uptown": {
+    "dist_to_burj_khalifa_km": 40.09902368670601,
+    "dist_to_dubai_mall_km": 39.76893775267473
+  },
+  "Al Abar": {
+    "dist_to_burj_khalifa_km": 22.80728771998757,
+    "dist_to_dubai_mall_km": 22.528806243429326
+  },
+  "Al Alia": {
+    "dist_to_burj_khalifa_km": 37.453416385446666,
+    "dist_to_dubai_mall_km": 37.123144027643185
+  },
+  "Al Ameera Village": {
+    "dist_to_burj_khalifa_km": 36.15627622931956,
+    "dist_to_dubai_mall_km": 35.80962008277621
+  },
+  "Al Amerah": {
+    "dist_to_burj_khalifa_km": 37.62173803540494,
+    "dist_to_dubai_mall_km": 37.2800020008047
+  },
+  "Al Azra": {
+    "dist_to_burj_khalifa_km": 25.523457757051144,
+    "dist_to_dubai_mall_km": 25.24701531968786
+  },
+  "Al Badaa": {
+    "dist_to_burj_khalifa_km": 2.406352613229497,
+    "dist_to_dubai_mall_km": 2.4146731353061166
+  },
+  "Al Bahia": {
+    "dist_to_burj_khalifa_km": 39.045906791270724,
+    "dist_to_dubai_mall_km": 38.72370781092199
+  },
+  "Al Barari": {
+    "dist_to_burj_khalifa_km": 9.892247290173158,
+    "dist_to_dubai_mall_km": 9.686372192313149
+  },
+  "Al Barsha": {
+    "dist_to_burj_khalifa_km": 13.57521402564465,
+    "dist_to_dubai_mall_km": 13.81071227483439
+  },
+  "Al Bateen": {
+    "dist_to_burj_khalifa_km": 125.73009552539793,
+    "dist_to_dubai_mall_km": 126.0445353501625
+  },
+  "Al Bustan": {
+    "dist_to_burj_khalifa_km": 29.65571172407509,
+    "dist_to_dubai_mall_km": 29.41612564422795
+  },
+  "Al Danah": {
+    "dist_to_burj_khalifa_km": 120.81471086101192,
+    "dist_to_dubai_mall_km": 121.13079986868051
+  },
+  "Al Darari": {
+    "dist_to_burj_khalifa_km": 22.278873792208554,
+    "dist_to_dubai_mall_km": 21.966451811332593
+  },
+  "Al Dhaid": {
+    "dist_to_burj_khalifa_km": 61.427606830989376,
+    "dist_to_dubai_mall_km": 61.007521598540805
+  },
+  "Al Falaj": {
+    "dist_to_burj_khalifa_km": 24.115826757759983,
+    "dist_to_dubai_mall_km": 23.840690423245047
+  },
+  "Al Fayha": {
+    "dist_to_burj_khalifa_km": 20.868128671020397,
+    "dist_to_dubai_mall_km": 20.62363711974269
+  },
+  "Al Fisht": {
+    "dist_to_burj_khalifa_km": 24.558142510376165,
+    "dist_to_dubai_mall_km": 24.341000981271666
+  },
+  "Al Fou'ah": {
+    "dist_to_burj_khalifa_km": 109.22367707157917,
+    "dist_to_dubai_mall_km": 109.00259859873523
+  },
+  "Al Furjan": {
+    "dist_to_burj_khalifa_km": 22.888431932826762,
+    "dist_to_dubai_mall_km": 23.12083867219991
+  },
+  "Al Ghadeer": {
+    "dist_to_burj_khalifa_km": 46.55254015252896,
+    "dist_to_dubai_mall_km": 46.772351747910726
+  },
+  "Al Ghafia": {
+    "dist_to_burj_khalifa_km": 19.57285326617651,
+    "dist_to_dubai_mall_km": 19.33979680867846
+  },
+  "Al Gharayen": {
+    "dist_to_burj_khalifa_km": 28.813295708871415,
+    "dist_to_dubai_mall_km": 28.43880563602986
+  },
+  "Al Gharb": {
+    "dist_to_burj_khalifa_km": 21.296944295488515,
+    "dist_to_dubai_mall_km": 21.07947674502732
+  },
+  "Al Ghubaiba": {
+    "dist_to_burj_khalifa_km": 21.58636174367418,
+    "dist_to_dubai_mall_km": 21.32187800690386
+  },
+  "Al Goaz": {
+    "dist_to_burj_khalifa_km": 24.226193133062477,
+    "dist_to_dubai_mall_km": 23.93749842144147
+  },
+  "Al Gurm": {
+    "dist_to_burj_khalifa_km": 123.28891226638838,
+    "dist_to_dubai_mall_km": 123.58583806876736
+  },
+  "Al Hamidiyah": {
+    "dist_to_burj_khalifa_km": 34.09717871573742,
+    "dist_to_dubai_mall_km": 33.78122830836673
+  },
+  "Al Hamra Village": {
+    "dist_to_burj_khalifa_km": 75.63242652034421,
+    "dist_to_dubai_mall_km": 75.35459944840825
+  },
+  "Al Helio": {
+    "dist_to_burj_khalifa_km": 39.77130358285111,
+    "dist_to_dubai_mall_km": 39.42824702310059
+  },
+  "Al Hudayriat Island": {
+    "dist_to_burj_khalifa_km": 126.63980033563983,
+    "dist_to_dubai_mall_km": 126.94412105318709
+  },
+  "Al Jaddaf": {
+    "dist_to_burj_khalifa_km": 5.395777849366547,
+    "dist_to_dubai_mall_km": 5.00298208831203
+  },
+  "Al Jazzat": {
+    "dist_to_burj_khalifa_km": 24.01770356636337,
+    "dist_to_dubai_mall_km": 23.756585368407166
+  },
+  "Al Jubail Island": {
+    "dist_to_burj_khalifa_km": 108.6249635605005,
+    "dist_to_dubai_mall_km": 108.930741446485
+  },
+  "Al Jurf": {
+    "dist_to_burj_khalifa_km": 60.22996326288516,
+    "dist_to_dubai_mall_km": 60.53483047335489
+  },
+  "Al Karama": {
+    "dist_to_burj_khalifa_km": 6.107829910900731,
+    "dist_to_dubai_mall_km": 5.91536504397478
+  },
+  "Al Khan": {
+    "dist_to_burj_khalifa_km": 16.33554929587678,
+    "dist_to_dubai_mall_km": 16.126559223604314
+  },
+  "Al Khawaneej": {
+    "dist_to_burj_khalifa_km": 24.118657764783748,
+    "dist_to_dubai_mall_km": 23.701882063055322
+  },
+  "Al Khezamia": {
+    "dist_to_burj_khalifa_km": 22.981228643560556,
+    "dist_to_dubai_mall_km": 22.68850646595038
+  },
+  "Al Majaz": {
+    "dist_to_burj_khalifa_km": 18.332058549577155,
+    "dist_to_dubai_mall_km": 18.076984662217544
+  },
+  "Al Mamzar": {
+    "dist_to_burj_khalifa_km": 15.494322145891273,
+    "dist_to_dubai_mall_km": 15.250815936648443
+  },
+  "Al Manama": {
+    "dist_to_burj_khalifa_km": 73.67739175400995,
+    "dist_to_dubai_mall_km": 73.26124005727215
+  },
+  "Al Manara": {
+    "dist_to_burj_khalifa_km": 8.383786934961902,
+    "dist_to_dubai_mall_km": 8.688100415901351
+  },
+  "Al Marjan Island": {
+    "dist_to_burj_khalifa_km": 71.49447177757408,
+    "dist_to_dubai_mall_km": 71.22355974224789
+  },
+  "Al Maryah Island": {
+    "dist_to_burj_khalifa_km": 117.99001937241123,
+    "dist_to_dubai_mall_km": 118.30646981010396
+  },
+  "Al Matar": {
+    "dist_to_burj_khalifa_km": 119.40547355753786,
+    "dist_to_dubai_mall_km": 119.69929421434063
+  },
+  "Al Mina": {
+    "dist_to_burj_khalifa_km": 7.450165650798029,
+    "dist_to_dubai_mall_km": 7.539581088326601
+  },
+  "Al Mizhar": {
+    "dist_to_burj_khalifa_km": 18.48223470216125,
+    "dist_to_dubai_mall_km": 18.0773475348526
+  },
+  "Al Mowaihat": {
+    "dist_to_burj_khalifa_km": 31.459864355960768,
+    "dist_to_dubai_mall_km": 31.143996541677755
+  },
+  "Al Muntazah": {
+    "dist_to_burj_khalifa_km": 119.1967100781313,
+    "dist_to_dubai_mall_km": 119.48850855964007
+  },
+  "Al Muroor": {
+    "dist_to_burj_khalifa_km": 121.26681610619677,
+    "dist_to_dubai_mall_km": 121.58066402676675
+  },
+  "Al Musalla": {
+    "dist_to_burj_khalifa_km": 108.87455854864227,
+    "dist_to_dubai_mall_km": 108.4533468656132
+  },
+  "Al Mushrif": {
+    "dist_to_burj_khalifa_km": 123.0428493612916,
+    "dist_to_dubai_mall_km": 123.34784466517722
+  },
+  "Al Nabba": {
+    "dist_to_burj_khalifa_km": 22.2973946746045,
+    "dist_to_dubai_mall_km": 22.075358204022162
+  },
+  "Al Nahda (Sharjah)": {
+    "dist_to_burj_khalifa_km": 15.371656310287793,
+    "dist_to_dubai_mall_km": 15.103579522500274
+  },
+  "Al Nahyan": {
+    "dist_to_burj_khalifa_km": 121.07954859869821,
+    "dist_to_dubai_mall_km": 121.38873892209389
+  },
+  "Al Nakhil": {
+    "dist_to_burj_khalifa_km": 29.53734970043927,
+    "dist_to_dubai_mall_km": 29.308246330910848
+  },
+  "Al Nekhailat": {
+    "dist_to_burj_khalifa_km": 25.633036652246137,
+    "dist_to_dubai_mall_km": 25.39205833761872
+  },
+  "Al Noaf": {
+    "dist_to_burj_khalifa_km": 25.5416224765114,
+    "dist_to_dubai_mall_km": 25.145831151562707
+  },
+  "Al Nuaimiya": {
+    "dist_to_burj_khalifa_km": 26.807131626849277,
+    "dist_to_dubai_mall_km": 26.555463884460966
+  },
+  "Al Qarayen": {
+    "dist_to_burj_khalifa_km": 46.722058414378175,
+    "dist_to_dubai_mall_km": 46.42792190522764
+  },
+  "Al Qasba": {
+    "dist_to_burj_khalifa_km": 17.273675855121716,
+    "dist_to_dubai_mall_km": 17.03280995483068
+  },
+  "Al Qasimia": {
+    "dist_to_burj_khalifa_km": 20.607850176928316,
+    "dist_to_dubai_mall_km": 20.36492040663226
+  },
+  "Al Quoz": {
+    "dist_to_burj_khalifa_km": 9.653352379321237,
+    "dist_to_dubai_mall_km": 9.822324122622652
+  },
+  "Al Qurm": {
+    "dist_to_burj_khalifa_km": 123.68354933494584,
+    "dist_to_dubai_mall_km": 123.98232436121751
+  },
+  "Al Qusais": {
+    "dist_to_burj_khalifa_km": 13.948500896544914,
+    "dist_to_dubai_mall_km": 13.609618994096811
+  },
+  "Al Raha Beach": {
+    "dist_to_burj_khalifa_km": 104.27245850380251,
+    "dist_to_dubai_mall_km": 104.54306273377983
+  },
+  "Al Raha Gardens": {
+    "dist_to_burj_khalifa_km": 112.43250070482091,
+    "dist_to_dubai_mall_km": 112.70184456362459
+  },
+  "Al Rahba": {
+    "dist_to_burj_khalifa_km": 88.22060197810906,
+    "dist_to_dubai_mall_km": 88.49596167376475
+  },
+  "Al Rahmaniya": {
+    "dist_to_burj_khalifa_km": 34.166376906980474,
+    "dist_to_dubai_mall_km": 33.790559697918745
+  },
+  "Al Ramaqiya": {
+    "dist_to_burj_khalifa_km": 25.868014107268085,
+    "dist_to_dubai_mall_km": 25.566703178891306
+  },
+  "Al Ramla": {
+    "dist_to_burj_khalifa_km": 23.027365660629318,
+    "dist_to_dubai_mall_km": 22.770109101689552
+  },
+  "Al Ramtha": {
+    "dist_to_burj_khalifa_km": 19.41592802521692,
+    "dist_to_dubai_mall_km": 19.161188737142794
+  },
+  "Al Rashidiya": {
+    "dist_to_burj_khalifa_km": 28.198281053191216,
+    "dist_to_dubai_mall_km": 27.94684087733879
+  },
+  "Al Rawda": {
+    "dist_to_burj_khalifa_km": 26.84899234207562,
+    "dist_to_dubai_mall_km": 26.5932415983616
+  },
+  "Al Reef": {
+    "dist_to_burj_khalifa_km": 102.3987205938603,
+    "dist_to_dubai_mall_km": 102.65049901004858
+  },
+  "Al Reem Island": {
+    "dist_to_burj_khalifa_km": 117.32808898337404,
+    "dist_to_dubai_mall_km": 117.63967537249913
+  },
+  "Al Rifa": {
+    "dist_to_burj_khalifa_km": 23.846742622725106,
+    "dist_to_dubai_mall_km": 23.52590508437493
+  },
+  "Al Riqaibah": {
+    "dist_to_burj_khalifa_km": 34.407421819720156,
+    "dist_to_dubai_mall_km": 33.9837297556235
+  },
+  "Al Rumaila": {
+    "dist_to_burj_khalifa_km": 27.522312224867463,
+    "dist_to_dubai_mall_km": 27.290291079144517
+  },
+  "Al Sabkha": {
+    "dist_to_burj_khalifa_km": 25.527809793622968,
+    "dist_to_dubai_mall_km": 25.27774719797248
+  },
+  "Al Safa": {
+    "dist_to_burj_khalifa_km": 5.455858802196008,
+    "dist_to_dubai_mall_km": 5.796333600444917
+  },
+  "Al Salam City": {
+    "dist_to_burj_khalifa_km": 45.30287640089476,
+    "dist_to_dubai_mall_km": 44.968543733343914
+  },
+  "Al Salamah": {
+    "dist_to_burj_khalifa_km": 44.99143011807691,
+    "dist_to_dubai_mall_km": 44.71162984457588
+  },
+  "Al Samha": {
+    "dist_to_burj_khalifa_km": 78.11866468500568,
+    "dist_to_dubai_mall_km": 78.3984458713259
+  },
+  "Al Sarouj": {
+    "dist_to_burj_khalifa_km": 123.01657508315664,
+    "dist_to_dubai_mall_km": 122.82210042404306
+  },
+  "Al Satwa": {
+    "dist_to_burj_khalifa_km": 2.631953475223628,
+    "dist_to_dubai_mall_km": 2.6879373938415405
+  },
+  "Al Sawan": {
+    "dist_to_burj_khalifa_km": 27.697223795542747,
+    "dist_to_dubai_mall_km": 27.456057966176765
+  },
+  "Al Sehma": {
+    "dist_to_burj_khalifa_km": 36.09932214655487,
+    "dist_to_dubai_mall_km": 35.686056449473234
+  },
+  "Al Shamkha": {
+    "dist_to_burj_khalifa_km": 106.76195945741493,
+    "dist_to_dubai_mall_km": 106.98220685791588
+  },
+  "Al Shawamekh": {
+    "dist_to_burj_khalifa_km": 112.75346373124673,
+    "dist_to_dubai_mall_km": 112.9787508987826
+  },
+  "Al Sufouh": {
+    "dist_to_burj_khalifa_km": 14.168499529222698,
+    "dist_to_dubai_mall_km": 14.473489136898012
+  },
+  "Al Suyoh": {
+    "dist_to_burj_khalifa_km": 33.968721697212054,
+    "dist_to_dubai_mall_km": 33.55015085747597
+  },
+  "Al Taawun": {
+    "dist_to_burj_khalifa_km": 15.844906913123852,
+    "dist_to_dubai_mall_km": 15.590431203169336
+  },
+  "Al Tai": {
+    "dist_to_burj_khalifa_km": 1668.451087593668,
+    "dist_to_dubai_mall_km": 1668.7723729529118
+  },
+  "Al Tallah 1": {
+    "dist_to_burj_khalifa_km": 30.8391014018826,
+    "dist_to_dubai_mall_km": 30.53070964776467
+  },
+  "Al Tallah 2": {
+    "dist_to_burj_khalifa_km": 30.595737359609547,
+    "dist_to_dubai_mall_km": 30.276998496914697
+  },
+  "Al Tay East": {
+    "dist_to_burj_khalifa_km": 34.12816777233124,
+    "dist_to_dubai_mall_km": 33.70309701283609
+  },
+  "Al Tiwayya": {
+    "dist_to_burj_khalifa_km": 113.4989077862578,
+    "dist_to_dubai_mall_km": 113.32753743604944
+  },
+  "Al Twar": {
+    "dist_to_burj_khalifa_km": 12.842914779444264,
+    "dist_to_dubai_mall_km": 12.500407436141721
+  },
+  "Al Warqaa": {
+    "dist_to_burj_khalifa_km": 16.43785627030723,
+    "dist_to_dubai_mall_km": 16.011029317095975
+  },
+  "Al Wasl": {
+    "dist_to_burj_khalifa_km": 1.8806160225195012,
+    "dist_to_dubai_mall_km": 2.3059584926104604
+  },
+  "Al Yahar": {
+    "dist_to_burj_khalifa_km": 111.90904048718608,
+    "dist_to_dubai_mall_km": 111.79693224002877
+  },
+  "Al Yarmook": {
+    "dist_to_burj_khalifa_km": 21.514916266956952,
+    "dist_to_dubai_mall_km": 21.266814641931063
+  },
+  "Al Yash": {
+    "dist_to_burj_khalifa_km": 24.891489904738116,
+    "dist_to_dubai_mall_km": 24.653272924775244
+  },
+  "Al Yasmeen": {
+    "dist_to_burj_khalifa_km": 32.616895608290136,
+    "dist_to_dubai_mall_km": 32.321215093820925
+  },
+  "Al Zahir": {
+    "dist_to_burj_khalifa_km": 138.5010022223558,
+    "dist_to_dubai_mall_km": 138.294337696912
+  },
+  "Al Zahya": {
+    "dist_to_burj_khalifa_km": 40.37619255574095,
+    "dist_to_dubai_mall_km": 40.04195373921109
+  },
+  "Al Zorah": {
+    "dist_to_burj_khalifa_km": 33.22197496592312,
+    "dist_to_dubai_mall_km": 32.95163870477191
+  },
+  "Al Zubair": {
+    "dist_to_burj_khalifa_km": 109.27457260469141,
+    "dist_to_dubai_mall_km": 108.85609817028693
+  },
+  "Aljada": {
+    "dist_to_burj_khalifa_km": 24.284922308228868,
+    "dist_to_dubai_mall_km": 23.937443029972258
+  },
+  "Arabian Ranches": {
+    "dist_to_burj_khalifa_km": 16.521818319082467,
+    "dist_to_dubai_mall_km": 16.5339088493167
+  },
+  "Arabian Ranches 2": {
+    "dist_to_burj_khalifa_km": 18.00980012285647,
+    "dist_to_dubai_mall_km": 18.013290239171198
+  },
+  "Arabian Ranches 3": {
+    "dist_to_burj_khalifa_km": 15.47041030842632,
+    "dist_to_dubai_mall_km": 15.329791158307401
+  },
+  "Arjan": {
+    "dist_to_burj_khalifa_km": 15.3606907406084,
+    "dist_to_dubai_mall_km": 15.45299986227817
+  },
+  "Asharij": {
+    "dist_to_burj_khalifa_km": 117.81904277030924,
+    "dist_to_dubai_mall_km": 117.66256899743506
+  },
+  "Baniyas": {
+    "dist_to_burj_khalifa_km": 121.11026601985267,
+    "dist_to_dubai_mall_km": 121.42822350486888
+  },
+  "Barashi": {
+    "dist_to_burj_khalifa_km": 32.675436425585936,
+    "dist_to_dubai_mall_km": 32.27474643064451
+  },
+  "Barsha Heights (Tecom)": {
+    "dist_to_burj_khalifa_km": 14.813999316737608,
+    "dist_to_dubai_mall_km": 15.094841709090273
+  },
+  "Bluewaters Island": {
+    "dist_to_burj_khalifa_km": 19.906411879945196,
+    "dist_to_dubai_mall_km": 20.22962389760521
+  },
+  "Bu Tina": {
+    "dist_to_burj_khalifa_km": 23.19536720902271,
+    "dist_to_dubai_mall_km": 22.972280844183196
+  },
+  "Bukadra": {
+    "dist_to_burj_khalifa_km": 5.660191842513925,
+    "dist_to_dubai_mall_km": 5.267664333678744
+  },
+  "Bur Dubai": {
+    "dist_to_burj_khalifa_km": 4.824760581072772,
+    "dist_to_dubai_mall_km": 4.652200470984127
+  },
+  "Business Bay": {
+    "dist_to_burj_khalifa_km": 1.2927621392853434,
+    "dist_to_dubai_mall_km": 1.6292371430222896
+  },
+  "City of Arabia": {
+    "dist_to_burj_khalifa_km": 13.241520145507762,
+    "dist_to_dubai_mall_km": 13.03316621793178
+  },
+  "Corniche Ajman": {
+    "dist_to_burj_khalifa_km": 27.91952438952036,
+    "dist_to_dubai_mall_km": 27.69174814829268
+  },
+  "Culture Village": {
+    "dist_to_burj_khalifa_km": 7.182693669809002,
+    "dist_to_dubai_mall_km": 6.810034609175604
+  },
+  "DAMAC Hills": {
+    "dist_to_burj_khalifa_km": 18.843423191705536,
+    "dist_to_dubai_mall_km": 18.857989953827836
+  },
+  "DAMAC Hills 2 (Akoya by DAMAC)": {
+    "dist_to_burj_khalifa_km": 26.08520097963354,
+    "dist_to_dubai_mall_km": 25.90339392113352
+  },
+  "DAMAC Lagoons": {
+    "dist_to_burj_khalifa_km": 20.368700316786555,
+    "dist_to_dubai_mall_km": 20.4383228803898
+  },
+  "DIFC": {
+    "dist_to_burj_khalifa_km": 1.7685064026096529,
+    "dist_to_dubai_mall_km": 1.7525515944194123
+  },
+  "Dafan Al Khor": {
+    "dist_to_burj_khalifa_km": 92.06262802106042,
+    "dist_to_dubai_mall_km": 91.76505104262641
+  },
+  "Dafan Al Nakheel": {
+    "dist_to_burj_khalifa_km": 96.58551459647431,
+    "dist_to_dubai_mall_km": 96.28647389281834
+  },
+  "Dasman": {
+    "dist_to_burj_khalifa_km": 21.868047793369744,
+    "dist_to_dubai_mall_km": 21.620125893868362
+  },
+  "Deira": {
+    "dist_to_burj_khalifa_km": 8.964163835420816,
+    "dist_to_dubai_mall_km": 8.836298647801977
+  },
+  "Discovery Gardens": {
+    "dist_to_burj_khalifa_km": 21.912056383615273,
+    "dist_to_dubai_mall_km": 22.15788821334128
+  },
+  "Downtown Dubai": {
+    "dist_to_burj_khalifa_km": 1.169433851128073,
+    "dist_to_dubai_mall_km": 1.222275510846604
+  },
+  "Dubai Creek Harbour": {
+    "dist_to_burj_khalifa_km": 8.65361711021475,
+    "dist_to_dubai_mall_km": 8.226771021819102
+  },
+  "Dubai Design District": {
+    "dist_to_burj_khalifa_km": 2.8961129633221163,
+    "dist_to_dubai_mall_km": 2.485052454577897
+  },
+  "Dubai Festival City": {
+    "dist_to_burj_khalifa_km": 8.024161582190692,
+    "dist_to_dubai_mall_km": 7.6296043435071095
+  },
+  "Dubai Harbour": {
+    "dist_to_burj_khalifa_km": 17.77660807047404,
+    "dist_to_dubai_mall_km": 18.101099536037037
+  },
+  "Dubai Hills Estate": {
+    "dist_to_burj_khalifa_km": 7.888809236634334,
+    "dist_to_dubai_mall_km": 7.945612257406646
+  },
+  "Dubai Industrial City": {
+    "dist_to_burj_khalifa_km": 44.9225839487551,
+    "dist_to_dubai_mall_km": 45.11328595725255
+  },
+  "Dubai Internet City": {
+    "dist_to_burj_khalifa_km": 16.175525842237636,
+    "dist_to_dubai_mall_km": 16.474757213152774
+  },
+  "Dubai Investment Park (DIP)": {
+    "dist_to_burj_khalifa_km": 25.647215593780274,
+    "dist_to_dubai_mall_km": 25.79912498546124
+  },
+  "Dubai Islands": {
+    "dist_to_burj_khalifa_km": 4.824760581072772,
+    "dist_to_dubai_mall_km": 4.652200470984127
+  },
+  "Dubai Marina": {
+    "dist_to_burj_khalifa_km": 19.23319295966036,
+    "dist_to_dubai_mall_km": 19.538445696268397
+  },
+  "Dubai Maritime City": {
+    "dist_to_burj_khalifa_km": 7.279139214384783,
+    "dist_to_dubai_mall_km": 7.3561891165178155
+  },
+  "Dubai Media City": {
+    "dist_to_burj_khalifa_km": 16.90235451795213,
+    "dist_to_dubai_mall_km": 17.209275326357798
+  },
+  "Dubai Production City (IMPZ)": {
+    "dist_to_burj_khalifa_km": 20.436744141111728,
+    "dist_to_dubai_mall_km": 20.611055969881846
+  },
+  "Dubai Residence Complex": {
+    "dist_to_burj_khalifa_km": 15.739524380938292,
+    "dist_to_dubai_mall_km": 15.444359676862343
+  },
+  "Dubai Science Park": {
+    "dist_to_burj_khalifa_km": 14.003729230089677,
+    "dist_to_dubai_mall_km": 14.095342709415924
+  },
+  "Dubai Silicon Oasis (DSO)": {
+    "dist_to_burj_khalifa_km": 13.735047112911255,
+    "dist_to_dubai_mall_km": 13.386648694664268
+  },
+  "Dubai South": {
+    "dist_to_burj_khalifa_km": 33.43353874874555,
+    "dist_to_dubai_mall_km": 33.570176211085304
+  },
+  "Dubai Sports City": {
+    "dist_to_burj_khalifa_km": 19.171581989789317,
+    "dist_to_dubai_mall_km": 19.288076440855875
+  },
+  "Dubai Studio City": {
+    "dist_to_burj_khalifa_km": 17.51469313983026,
+    "dist_to_dubai_mall_km": 17.56376967232429
+  },
+  "Dubai Waterfront": {
+    "dist_to_burj_khalifa_km": 39.49539273882577,
+    "dist_to_dubai_mall_km": 39.78894555933165
+  },
+  "Dubailand": {
+    "dist_to_burj_khalifa_km": 15.667570635375105,
+    "dist_to_dubai_mall_km": 15.739440147941503
+  },
+  "Emirates City": {
+    "dist_to_burj_khalifa_km": 37.03764820965692,
+    "dist_to_dubai_mall_km": 36.69947325442951
+  },
+  "Emirates Hills": {
+    "dist_to_burj_khalifa_km": 18.470386300496017,
+    "dist_to_dubai_mall_km": 18.71559606142142
+  },
+  "Expo City": {
+    "dist_to_burj_khalifa_km": 29.059584614800258,
+    "dist_to_dubai_mall_km": 29.228095916228856
+  },
+  "Falaj Al Mualla": {
+    "dist_to_burj_khalifa_km": 61.41260419639629,
+    "dist_to_dubai_mall_km": 61.011073264574534
+  },
+  "Falcon City of Wonders": {
+    "dist_to_burj_khalifa_km": 13.059920016080243,
+    "dist_to_dubai_mall_km": 12.840892622964725
+  },
+  "Garden City": {
+    "dist_to_burj_khalifa_km": 32.78640339858847,
+    "dist_to_dubai_mall_km": 32.49178713422713
+  },
+  "Ghantoot": {
+    "dist_to_burj_khalifa_km": 52.75490595862434,
+    "dist_to_dubai_mall_km": 53.05251351860739
+  },
+  "Green Community": {
+    "dist_to_burj_khalifa_km": 24.20458408267797,
+    "dist_to_dubai_mall_km": 24.39894875035915
+  },
+  "Halwan Suburb": {
+    "dist_to_burj_khalifa_km": 22.1534247570076,
+    "dist_to_dubai_mall_km": 21.883514842243688
+  },
+  "Hoshi": {
+    "dist_to_burj_khalifa_km": 26.6436725887249,
+    "dist_to_dubai_mall_km": 26.234647370774958
+  },
+  "Hydra Village": {
+    "dist_to_burj_khalifa_km": 92.5811188129037,
+    "dist_to_dubai_mall_km": 92.839501955604
+  },
+  "Industrial Area": {
+    "dist_to_burj_khalifa_km": 109.1155139580079,
+    "dist_to_dubai_mall_km": 108.69104038657227
+  },
+  "International City": {
+    "dist_to_burj_khalifa_km": 14.396589416094178,
+    "dist_to_dubai_mall_km": 14.022569722943159
+  },
+  "Jebel Ali": {
+    "dist_to_burj_khalifa_km": 30.610431209965018,
+    "dist_to_dubai_mall_km": 30.86064397909499
+  },
+  "Jumeirah": {
+    "dist_to_burj_khalifa_km": 2.9140491477259447,
+    "dist_to_dubai_mall_km": 3.3180389759728595
+  },
+  "Jumeirah Beach Residence (JBR)": {
+    "dist_to_burj_khalifa_km": 19.3025428916646,
+    "dist_to_dubai_mall_km": 19.606818177094837
+  },
+  "Jumeirah Golf Estates": {
+    "dist_to_burj_khalifa_km": 21.014550937510045,
+    "dist_to_dubai_mall_km": 21.157838137959015
+  },
+  "Jumeirah Heights": {
+    "dist_to_burj_khalifa_km": 19.55669911102838,
+    "dist_to_dubai_mall_km": 19.833777160564274
+  },
+  "Jumeirah Islands": {
+    "dist_to_burj_khalifa_km": 19.608375948135812,
+    "dist_to_dubai_mall_km": 19.861297482552846
+  },
+  "Jumeirah Lake Towers (JLT)": {
+    "dist_to_burj_khalifa_km": 19.566021774411436,
+    "dist_to_dubai_mall_km": 19.852740757363954
+  },
+  "Jumeirah Park": {
+    "dist_to_burj_khalifa_km": 20.591957961789838,
+    "dist_to_dubai_mall_km": 20.83506314479903
+  },
+  "Jumeirah Village Circle (JVC)": {
+    "dist_to_burj_khalifa_km": 17.090081883542876,
+    "dist_to_dubai_mall_km": 17.252129074910965
+  },
+  "Jumeirah Village Triangle (JVT)": {
+    "dist_to_burj_khalifa_km": 19.00427881027023,
+    "dist_to_dubai_mall_km": 19.194705456051906
+  },
+  "Khalifa City": {
+    "dist_to_burj_khalifa_km": 111.5771667711937,
+    "dist_to_dubai_mall_km": 111.83950312524189
+  },
+  "Khor Fakkan": {
+    "dist_to_burj_khalifa_km": 109.25011400248837,
+    "dist_to_dubai_mall_km": 108.83042740041569
+  },
+  "Living Legends": {
+    "dist_to_burj_khalifa_km": 12.694035221832872,
+    "dist_to_dubai_mall_km": 12.608816775686057
+  },
+  "Liwan": {
+    "dist_to_burj_khalifa_km": 13.489932038524177,
+    "dist_to_dubai_mall_km": 13.18733804866605
+  },
+  "Liwan 2": {
+    "dist_to_burj_khalifa_km": 13.489932038524177,
+    "dist_to_dubai_mall_km": 13.18733804866605
+  },
+  "Liwara 1": {
+    "dist_to_burj_khalifa_km": 29.676274884420323,
+    "dist_to_dubai_mall_km": 29.435913393988216
+  },
+  "Madinat Al Riyadh": {
+    "dist_to_burj_khalifa_km": 109.5440984630712,
+    "dist_to_dubai_mall_km": 109.74808730252964
+  },
+  "Madinat Zayed": {
+    "dist_to_burj_khalifa_km": 234.03859469361112,
+    "dist_to_dubai_mall_km": 234.3218676457506
+  },
+  "Majan": {
+    "dist_to_burj_khalifa_km": 12.414050039625419,
+    "dist_to_dubai_mall_km": 12.256516001672415
+  },
+  "Marina Village": {
+    "dist_to_burj_khalifa_km": 125.69718257926802,
+    "dist_to_dubai_mall_km": 126.01909022550961
+  },
+  "Masdar City": {
+    "dist_to_burj_khalifa_km": 107.8934114314033,
+    "dist_to_dubai_mall_km": 108.14535323536863
+  },
+  "Masfoot": {
+    "dist_to_burj_khalifa_km": 93.04210947275891,
+    "dist_to_dubai_mall_km": 92.65762974315257
+  },
+  "Meydan City": {
+    "dist_to_burj_khalifa_km": 5.057831740867977,
+    "dist_to_dubai_mall_km": 4.92441003470131
+  },
+  "Mina Al Arab": {
+    "dist_to_burj_khalifa_km": 81.37076716543497,
+    "dist_to_dubai_mall_km": 81.08307891706518
+  },
+  "Mina Rashid": {
+    "dist_to_burj_khalifa_km": 8.243741221721555,
+    "dist_to_dubai_mall_km": 8.310868345653098
+  },
+  "Mirdif": {
+    "dist_to_burj_khalifa_km": 15.130627770068113,
+    "dist_to_dubai_mall_km": 14.712700145465337
+  },
+  "Mohammed Bin Rashid City": {
+    "dist_to_burj_khalifa_km": 3.8557798906561778,
+    "dist_to_dubai_mall_km": 3.74057762706066
+  },
+  "Mohammed Bin Zayed City": {
+    "dist_to_burj_khalifa_km": 120.45901701434961,
+    "dist_to_dubai_mall_km": 120.7089499319152
+  },
+  "Motor City": {
+    "dist_to_burj_khalifa_km": 17.01846758123043,
+    "dist_to_dubai_mall_km": 17.1034157450918
+  },
+  "Mudon": {
+    "dist_to_burj_khalifa_km": 19.668229729576442,
+    "dist_to_dubai_mall_km": 19.67494458261414
+  },
+  "Muhaisnah": {
+    "dist_to_burj_khalifa_km": 16.488059113099194,
+    "dist_to_dubai_mall_km": 16.11338486649611
+  },
+  "Muwaileh": {
+    "dist_to_burj_khalifa_km": 20.162864902928703,
+    "dist_to_dubai_mall_km": 19.813578351736236
+  },
+  "Muwailih Commercial": {
+    "dist_to_burj_khalifa_km": 21.442999412878198,
+    "dist_to_dubai_mall_km": 21.09733570681093
+  },
+  "Muzairah": {
+    "dist_to_burj_khalifa_km": 33.56937153182928,
+    "dist_to_dubai_mall_km": 33.182339776877015
+  },
+  "Nad Al Hamar": {
+    "dist_to_burj_khalifa_km": 11.273474277112655,
+    "dist_to_dubai_mall_km": 10.885830677349517
+  },
+  "Nad Al Sheba": {
+    "dist_to_burj_khalifa_km": 11.259019899701388,
+    "dist_to_dubai_mall_km": 10.914814900503218
+  },
+  "Nareel Island": {
+    "dist_to_burj_khalifa_km": 126.7396702737986,
+    "dist_to_dubai_mall_km": 127.05643367688018
+  },
+  "Nurai Island": {
+    "dist_to_burj_khalifa_km": 102.89994273697816,
+    "dist_to_dubai_mall_km": 103.22600571835297
+  },
+  "Palm Jebel Ali": {
+    "dist_to_burj_khalifa_km": 35.90621141593623,
+    "dist_to_dubai_mall_km": 36.22148853461036
+  },
+  "Palm Jumeirah": {
+    "dist_to_burj_khalifa_km": 16.625909807815102,
+    "dist_to_dubai_mall_km": 16.983724282732304
+  },
+  "Pearl Jumeirah": {
+    "dist_to_burj_khalifa_km": 5.480933795704731,
+    "dist_to_dubai_mall_km": 5.6278138460292775
+  },
+  "Rabdan": {
+    "dist_to_burj_khalifa_km": 117.34088793933044,
+    "dist_to_dubai_mall_km": 117.61567141575777
+  },
+  "Ramhan Island": {
+    "dist_to_burj_khalifa_km": 104.77567235097628,
+    "dist_to_dubai_mall_km": 105.0759849490557
+  },
+  "Ras Al Khor": {
+    "dist_to_burj_khalifa_km": 6.5367401285006945,
+    "dist_to_dubai_mall_km": 6.109732486570687
+  },
+  "Rawdhat Abu Dhabi": {
+    "dist_to_burj_khalifa_km": 119.0623512816832,
+    "dist_to_dubai_mall_km": 119.34884262882734
+  },
+  "Reem": {
+    "dist_to_burj_khalifa_km": 18.414098676877593,
+    "dist_to_dubai_mall_km": 18.404092212673756
+  },
+  "Remraam": {
+    "dist_to_burj_khalifa_km": 21.92781757716325,
+    "dist_to_dubai_mall_km": 21.970209363150847
+  },
+  "Rodhat Al Qrt": {
+    "dist_to_burj_khalifa_km": 38.785137995933496,
+    "dist_to_dubai_mall_km": 38.367702823875966
+  },
+  "Saadiyat Island": {
+    "dist_to_burj_khalifa_km": 110.7526518303209,
+    "dist_to_dubai_mall_km": 111.06922432258237
+  },
+  "Serena": {
+    "dist_to_burj_khalifa_km": 18.030577181477238,
+    "dist_to_dubai_mall_km": 17.99623197390399
+  },
+  "Shakhbout City": {
+    "dist_to_burj_khalifa_km": 113.48074955376043,
+    "dist_to_dubai_mall_km": 113.7162921500667
+  },
+  "Sharjah Garden City": {
+    "dist_to_burj_khalifa_km": 36.36703867742481,
+    "dist_to_dubai_mall_km": 35.94002739871589
+  },
+  "Sharjah Waterfront City": {
+    "dist_to_burj_khalifa_km": 42.09280099918643,
+    "dist_to_dubai_mall_km": 41.85255950621816
+  },
+  "Sharqan": {
+    "dist_to_burj_khalifa_km": 24.601820107126812,
+    "dist_to_dubai_mall_km": 24.37557445008813
+  },
+  "Sheikh Maktoum Bin Rashid Street": {
+    "dist_to_burj_khalifa_km": 34.042154011096066,
+    "dist_to_dubai_mall_km": 33.76754167784828
+  },
+  "Sheikh Zayed Road": {
+    "dist_to_burj_khalifa_km": 2.3050251152607855,
+    "dist_to_dubai_mall_km": 2.283411451032325
+  },
+  "Sobha Hartland": {
+    "dist_to_burj_khalifa_km": 4.038481249685973,
+    "dist_to_dubai_mall_km": 3.6819658788104555
+  },
+  "The Acres": {
+    "dist_to_burj_khalifa_km": 16.600440312604658,
+    "dist_to_dubai_mall_km": 16.537674328130624
+  },
+  "The Cove Rotana Resort": {
+    "dist_to_burj_khalifa_km": 86.0654473573045,
+    "dist_to_dubai_mall_km": 85.76934847770774
+  },
+  "The Greens": {
+    "dist_to_burj_khalifa_km": 15.497992960899257,
+    "dist_to_dubai_mall_km": 15.776132514967733
+  },
+  "The Hills": {
+    "dist_to_burj_khalifa_km": 17.623909741828584,
+    "dist_to_dubai_mall_km": 17.901537020669053
+  },
+  "The Lakes": {
+    "dist_to_burj_khalifa_km": 16.71340890055879,
+    "dist_to_dubai_mall_km": 16.978087826905263
+  },
+  "The Marina": {
+    "dist_to_burj_khalifa_km": 125.10029883681763,
+    "dist_to_dubai_mall_km": 125.42292918156517
+  },
+  "The Meadows": {
+    "dist_to_burj_khalifa_km": 18.688223344790167,
+    "dist_to_dubai_mall_km": 18.95264525886441
+  },
+  "The Oasis by Emaar": {
+    "dist_to_burj_khalifa_km": 22.67543734459896,
+    "dist_to_dubai_mall_km": 22.7987460805948
+  },
+  "The Springs": {
+    "dist_to_burj_khalifa_km": 17.84977116892368,
+    "dist_to_dubai_mall_km": 18.06505478335834
+  },
+  "The Sustainable City": {
+    "dist_to_burj_khalifa_km": 18.688416525134972,
+    "dist_to_dubai_mall_km": 18.676402021203103
+  },
+  "The Valley": {
+    "dist_to_burj_khalifa_km": 26.35247619604421,
+    "dist_to_dubai_mall_km": 26.06325387704271
+  },
+  "The Views": {
+    "dist_to_burj_khalifa_km": 15.781285651990533,
+    "dist_to_dubai_mall_km": 16.059980020269983
+  },
+  "The Villa": {
+    "dist_to_burj_khalifa_km": 15.287942844744626,
+    "dist_to_dubai_mall_km": 15.037897295213018
+  },
+  "The World Islands": {
+    "dist_to_burj_khalifa_km": 10.554455903350053,
+    "dist_to_dubai_mall_km": 10.963043428901852
+  },
+  "Tilal Al Ghaf": {
+    "dist_to_burj_khalifa_km": 19.89097242071972,
+    "dist_to_dubai_mall_km": 19.99313314184448
+  },
+  "Tilal City": {
+    "dist_to_burj_khalifa_km": 32.088176585717264,
+    "dist_to_dubai_mall_km": 31.676717699940106
+  },
+  "Town Square": {
+    "dist_to_burj_khalifa_km": 20.77205636658994,
+    "dist_to_dubai_mall_km": 20.73451612132791
+  },
+  "Umm Al Quwain Marina": {
+    "dist_to_burj_khalifa_km": 49.66384052545703,
+    "dist_to_dubai_mall_km": 49.3871693588644
+  },
+  "Umm Suqeim": {
+    "dist_to_burj_khalifa_km": 6.6608465496701506,
+    "dist_to_dubai_mall_km": 7.017582521208004
+  },
+  "Wadi Al Safa 2": {
+    "dist_to_burj_khalifa_km": 13.411549482461293,
+    "dist_to_dubai_mall_km": 13.159317578237218
+  },
+  "Wasit Suburb": {
+    "dist_to_burj_khalifa_km": 25.089766949033592,
+    "dist_to_dubai_mall_km": 24.79197636037287
+  },
+  "Wasl Gate": {
+    "dist_to_burj_khalifa_km": 25.403380097755146,
+    "dist_to_dubai_mall_km": 25.67909241758396
+  },
+  "World Trade Centre": {
+    "dist_to_burj_khalifa_km": 3.2577280707665395,
+    "dist_to_dubai_mall_km": 3.1536479421283206
+  },
+  "Yas Island": {
+    "dist_to_burj_khalifa_km": 103.69940876705874,
+    "dist_to_dubai_mall_km": 103.96812924109369
+  },
+  "Yasmin Village": {
+    "dist_to_burj_khalifa_km": 93.6266970436971,
+    "dist_to_dubai_mall_km": 93.31018703430347
+  },
+  "Za'abeel": {
+    "dist_to_burj_khalifa_km": 3.387223685335472,
+    "dist_to_dubai_mall_km": 3.0816060841454505
+  },
+  "Zayed City": {
+    "dist_to_burj_khalifa_km": 234.264797643174,
+    "dist_to_dubai_mall_km": 234.54829527558093
+  }
+}
