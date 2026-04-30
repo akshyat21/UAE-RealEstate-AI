@@ -22,6 +22,25 @@ with col2:
     furnishing = st.selectbox("Furnishing Status", ["Unfurnished", "Furnished"])
     completion = st.selectbox("Completion Status", ["Ready", "Off-Plan"])
 
+# Property summary preview
+st.markdown("---")
+st.subheader("📋 Property Summary")
+st.info(f"""
+**Location:** {area_name}  
+**Type:** {property_type}  
+**Bedrooms:** {beds}  |  **Bathrooms:** {baths}  
+**Furnishing:** {furnishing}  |  **Completion:** {completion}
+""")
+st.markdown("---")
+
+with st.expander("📘 How this works (click to expand)"):
+    st.markdown("""
+    - **Price prediction** uses a **CatBoost model** trained on 41,000+ real UAE property listings.
+    - **40+ location features** include distance to Burj Khalifa, Dubai Mall, metro stations, beaches, and airports (computed via Haversine formula).
+    - **AI explanation** powered by **Groq's Llama 3.3** – generates a plain‑English reason for the price based on location prestige and property attributes.
+    - **Model performance:** R² = 0.73, RMSE = 2.46M AED.
+    """)
+
 if st.button("🔮 Predict Price", type="primary"):
     with st.spinner("Consulting CatBoost + AI engine..."):
         price, explanation = predict_from_input(beds, baths, area_name, property_type, furnishing, completion)
